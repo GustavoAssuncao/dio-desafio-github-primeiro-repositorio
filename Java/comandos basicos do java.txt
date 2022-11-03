@@ -1,0 +1,4 @@
+Comando	                                 Palavras-chave
+Tomada de decisões	                if-else, switch-case
+Laços ou repetições	                for, while, do-while
+Apontamento e tratamento de excessões	try-catch-finally, throw
